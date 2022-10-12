@@ -1,0 +1,10 @@
+﻿  Cons20221012_kdh_tast2.cpp
+D:\C-program\20221012\Cons20221012_kdh_tast2\Cons20221012_kdh_tast2\Cons20221012_kdh_tast2.cpp(22,10): warning C4477: 'printf' : 서식 문자열 '%i'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double'입니다.
+D:\C-program\20221012\Cons20221012_kdh_tast2\Cons20221012_kdh_tast2\Cons20221012_kdh_tast2.cpp(22,10): warning C4477: 'printf' : 서식 문자열 '%i'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'double'입니다.
+D:\C-program\20221012\Cons20221012_kdh_tast2\Cons20221012_kdh_tast2\Cons20221012_kdh_tast2.cpp(25,10): warning C4477: 'printf' : 서식 문자열 '%i'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double'입니다.
+D:\C-program\20221012\Cons20221012_kdh_tast2\Cons20221012_kdh_tast2\Cons20221012_kdh_tast2.cpp(25,10): warning C4477: 'printf' : 서식 문자열 '%i'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'double'입니다.
+D:\C-program\20221012\Cons20221012_kdh_tast2\Cons20221012_kdh_tast2\Cons20221012_kdh_tast2.cpp(28,10): warning C4477: 'printf' : 서식 문자열 '%i'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double'입니다.
+D:\C-program\20221012\Cons20221012_kdh_tast2\Cons20221012_kdh_tast2\Cons20221012_kdh_tast2.cpp(28,10): warning C4477: 'printf' : 서식 문자열 '%i'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'double'입니다.
+D:\C-program\20221012\Cons20221012_kdh_tast2\Cons20221012_kdh_tast2\Cons20221012_kdh_tast2.cpp(32,12): warning C4477: 'printf' : 서식 문자열 '%i'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double'입니다.
+D:\C-program\20221012\Cons20221012_kdh_tast2\Cons20221012_kdh_tast2\Cons20221012_kdh_tast2.cpp(32,12): warning C4477: 'printf' : 서식 문자열 '%i'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'double'입니다.
+  Cons20221012_kdh_tast2.vcxproj -> D:\C-program\20221012\Cons20221012_kdh_tast2\Debug\Cons20221012_kdh_tast2.exe
